@@ -1,0 +1,21 @@
+Tasks
+
+1. Import data
+2. Convert/save Gary_records in the same format as the other (.csv)
+Questions:
+3. Which of Gary's pokemon has been used the most?
+4. How many fights has has Gary won?
+5. How many fights has Ash lost?
+6. Has Gary or Ash had more fights (wins and losses)?
+
+7. Combining Ash and Gary's table, how many fights have they won combined?
+8. Combine this table (7) with the larger pokemon records. How many fire type pokemon do Ash and Gary have combined? 
+
+
+9. Plot how many Grass type pokemon there are on records
+10. What is the Average hp of water type pokemon?
+11.  How many pokemon do not have a second type recorded?
+12. What pyschic pokemon has the strongerst spattack?
+13. What water pokemon has the lowest defence?
+14. What electric pokemon has the fastest speed?
+15. Which Pokemon type has the highest average total stat?
